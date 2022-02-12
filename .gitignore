@@ -1,1 +1,19 @@
-node_modules
+# dependencies
+/node_modules
+/frontend/node_modules
+/frontend/.pnp
+/frontend/.pnp.js
+
+# testing
+/frontend/coverage
+/env
+# production
+/frontend/build
+
+# misc
+/backend/config/config.env
+/frontend/.DS_Store
+/frontend/.env.local
+/frontend/.env.development.local
+/frontend/.env.test.local
+/frontend/.env.production.local

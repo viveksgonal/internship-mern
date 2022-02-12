@@ -1,0 +1,6 @@
+
+> internshp-mern@1.0.0 start
+> node backend/server.js
+
+Server started on PORT 5000
+MongoDb connected: cluster0-shard-00-01.igvi8.mongodb.net
